@@ -1,6 +1,6 @@
 def find_max_value(array)
   count = 0
-  largest_int = nil
+  largest_int = 0
   while count < array.length do
     
   end
