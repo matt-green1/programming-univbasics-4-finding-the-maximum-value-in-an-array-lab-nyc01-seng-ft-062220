@@ -5,7 +5,7 @@ def find_max_value(array)
     if array[count] > largest_int
       largest_int = array[count]
     else
-      
+      count+=1
     end
   end
   return largest_int
